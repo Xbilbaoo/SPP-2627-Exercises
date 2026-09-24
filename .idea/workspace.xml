@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="177ad5eb-e9f4-499a-b5eb-83a8003d48c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_processing_programming/ProcessCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_processing_programming/examples/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_processing_programming/examples/SumInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise3.java" afterDir="false" />
+    <list default="true" id="177ad5eb-e9f4-499a-b5eb-83a8003d48c3" name="Changes" comment="Exercise3 Completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +44,7 @@
   "keyToString": {
     "Application.Exercise1.executor": "Run",
     "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
     "Application.Sum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,14 +53,28 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise3">
+  <component name="RunManager" selected="Application.Exercise4">
     <configuration name="Exercise3" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multi_processing_programming.Exercise3" />
       <module name="SPP-2627-Exercises" />
       <option name="PROGRAM_PARAMETERS" value="&quot;5,8,7,17,23&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multi_processing_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multi_processing_programming.Exercise4" />
+      <module name="SPP-2627-Exercises" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Multi_processing_programming.*" />
@@ -103,11 +113,13 @@
     </configuration>
     <list>
       <item itemvalue="Application.Exercise3" />
+      <item itemvalue="Application.Exercise4" />
       <item itemvalue="Application.Sum" />
       <item itemvalue="Application.SumInitializer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.SumInitializer" />
         <item itemvalue="Application.Sum" />
       </list>
@@ -133,6 +145,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise3 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise3 Completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
