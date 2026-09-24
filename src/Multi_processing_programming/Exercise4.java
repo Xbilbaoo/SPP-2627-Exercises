@@ -36,11 +36,6 @@ public class Exercise4 {
             endTime = System.currentTimeMillis();
             System.out.printf("2 Prozesua bukatu da denbora honekin: %f", ((endTime - startTime)/1000.0));
 
-
-
-
-
-
         } catch (IOException | InterruptedException e) { e.printStackTrace(); }
 
     }

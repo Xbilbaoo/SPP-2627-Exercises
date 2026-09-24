@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="177ad5eb-e9f4-499a-b5eb-83a8003d48c3" name="Changes" comment="Exercise3 Completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="177ad5eb-e9f4-499a-b5eb-83a8003d48c3" name="Changes" comment="Exercise4 Completed">
       <change beforePath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +158,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise3 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise3 Completed" />
+    <MESSAGE value="Exercise4 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise4 Completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
