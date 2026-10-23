@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="177ad5eb-e9f4-499a-b5eb-83a8003d48c3" name="Changes" comment="Exercise4 Completed">
-      <change beforePath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi_processing_programming/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi_threading_programming/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi_threading_programming/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network_communication/exercises/exercise1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network_communication/exercises/exercise1/ClientManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network_communication/exercises/exercise1/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,32 +40,137 @@
     &quot;accountId&quot;: &quot;a337dacd-248b-40a6-864d-568f32717fdb&quot;
   }
 }</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000033" />
+      <entry key="S5" value="1.000002074133121" />
+      <entry key="S10" value="1.0019541806259242" />
+      <entry key="S30" value="1.1979727833143814" />
+      <entry key="S60" value="1.697334528440164" />
+      <entry key="M2" value="2.704536851607372" />
+      <entry key="M5" value="6.1348316971905446" />
+      <entry key="M10" value="12.789601556802143" />
+      <entry key="M15" value="18.498206584508242" />
+      <entry key="M30" value="29.172754105047915" />
+      <entry key="H1" value="38.0423718769089" />
+      <entry key="H2" value="43.890875764565784" />
+      <entry key="H4" value="47.269552756649865" />
+      <entry key="D1" value="50.35208452435272" />
+      <entry key="W1" value="50.9067754505047" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.714415E-318" />
+      <entry key="MS500" value="3.3254762158579264E-64" />
+      <entry key="S2" value="1.8387286518416352E-16" />
+      <entry key="S5" value="7.48484412798794E-7" />
+      <entry key="S10" value="0.0012174723232871998" />
+      <entry key="S30" value="0.16983550188027435" />
+      <entry key="S60" value="0.6060005651430972" />
+      <entry key="M2" value="1.2672671429545594" />
+      <entry key="M5" value="2.432158122907306" />
+      <entry key="M10" value="3.9241289681024325" />
+      <entry key="M15" value="5.205301799799352" />
+      <entry key="M30" value="7.700167130365558" />
+      <entry key="H1" value="9.833973758309039" />
+      <entry key="H2" value="11.257951203525025" />
+      <entry key="H4" value="12.084650118928955" />
+      <entry key="D1" value="12.840852183601779" />
+      <entry key="W1" value="12.977097236024502" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3598963211398412E-7" />
+      <entry key="MS500" value="0.042335155546417744" />
+      <entry key="S2" value="0.45360234382074965" />
+      <entry key="S5" value="0.7289053301201484" />
+      <entry key="S10" value="0.856298501128492" />
+      <entry key="S30" value="1.292397273188927" />
+      <entry key="S60" value="2.2357453848548565" />
+      <entry key="M2" value="3.91167735002472" />
+      <entry key="M5" value="8.51337468365238" />
+      <entry key="M10" value="16.666156846916486" />
+      <entry key="M15" value="23.661604229908413" />
+      <entry key="M30" value="36.843210652963954" />
+      <entry key="H1" value="47.858041992035055" />
+      <entry key="H2" value="55.13856590039157" />
+      <entry key="H4" value="59.34875563055712" />
+      <entry key="D1" value="63.19198100411159" />
+      <entry key="W1" value="63.883734932195004" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3JSAQwKhLJSOaTqG0X6tyZGAh5c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Client.executor": "Run",
     "Application.Exercise1.executor": "Run",
+    "Application.Exercise2.executor": "Run",
     "Application.Exercise3.executor": "Run",
     "Application.Exercise4.executor": "Run",
+    "Application.Server.executor": "Run",
     "Application.Sum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise4">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Network_communication.exercises.exercise1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network_communication.exercises.exercise1.Client" />
+      <module name="SPP-2627-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Network_communication.exercises.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multi_threading_programming.Exercise2" />
+      <module name="SPP-2627-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multi_threading_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise3" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multi_processing_programming.Exercise3" />
       <module name="SPP-2627-Exercises" />
@@ -84,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multi_processing_programming.examples.Sum" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network_communication.exercises.exercise1.Server" />
       <module name="SPP-2627-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multi_processing_programming.examples.*" />
+          <option name="PATTERN" value="Network_communication.exercises.exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,15 +226,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Exercise3" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Exercise2" />
       <item itemvalue="Application.Exercise4" />
-      <item itemvalue="Application.Sum" />
       <item itemvalue="Application.SumInitializer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.SumInitializer" />
-        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
